@@ -1,0 +1,13 @@
+S1;Chicken Shawarma;1500.00;
+S2;Beef Shawarma;1500.00;
+S3;Mixed Shawarma;1800.00;
+P1;Beef Burger;2000.00;
+P2;Chicken Burger;1500.00;
+X1;Chicken Suya;500.00;
+X2;Beef Suya;200.00;
+D1;Soda;150.00;
+D2;Beer;750.00;
+C1;Espresso;1500.00;
+C2;Cappuccino;1000.00;
+W1;Mineral Still Water;100.00;
+W2;Mineral Sparkling Water;500.00;
